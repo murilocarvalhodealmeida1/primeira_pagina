@@ -1,0 +1,17 @@
+/*aqui eu apenas estou 'modelando' o site*/
+body{
+    color: black;
+    background-color:pink
+}
+header{
+    background-color: salmon
+}
+footer{
+    background-color:blanchedalmond
+}
+/*aqui eu vou editar o tamanho das imagens*/
+    .banana{width:200px}
+    .teupai{width:200px}
+    .criadordomusikr{width:400px}
+    .ventotoba{width:200px}
+    .compiuter{width:200px}
